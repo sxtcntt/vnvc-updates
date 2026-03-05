@@ -1,12 +1,12 @@
 {
   "app": "qlts",
   "version": "0.1.1",
-  "notes": "Phiên bản khởi tạo",
-  "pub_date": "2026-03-05T03:39:20.124Z",
+  "notes": "Release qlts-v0.1.1",
+  "pub_date": "2026-03-05T08:19:43.348Z",
   "platforms": {
     "windows": {
-      "dist_url": "",
-      "checksum_sha256": ""
+      "dist_url": "https://github.com/sxtcntt/vnvc-updates/releases/download/qlts-v0.1.1/qlts-0.1.1.zip",
+      "checksum_sha256": "5a00cc721fe2a62e0bd509d34901a8692a5677e818e78806d5b0629e2083f9fb"
     }
   }
 }
