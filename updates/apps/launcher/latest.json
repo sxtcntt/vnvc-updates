@@ -1,0 +1,12 @@
+{
+  "app": "launcher",
+  "version": "0.1.0",
+  "notes": "Phiên bản khởi tạo",
+  "pub_date": "2026-03-05T03:39:20.124Z",
+  "platforms": {
+    "windows": {
+      "dist_url": "",
+      "checksum_sha256": ""
+    }
+  }
+}
