@@ -2,11 +2,11 @@
   "app": "nas",
   "version": "0.0.2",
   "notes": "Release nas-v0.0.2",
-  "pub_date": "2026-03-16T03:28:30.581Z",
+  "pub_date": "2026-03-16T03:49:51.991Z",
   "platforms": {
     "windows": {
       "dist_url": "https://github.com/sxtcntt/vnvc-updates/releases/download/nas-v0.0.2/nas-0.0.2.zip",
-      "checksum_sha256": "03841941e6cf59dfa0a8b7a393440b1cf61282dc09702c7ee2257fe8a1b90cc5"
+      "checksum_sha256": "a5d9ff969f5916fdde4eda0da9576e887671ac296d908219537e416cc16e06e8"
     }
   }
 }
