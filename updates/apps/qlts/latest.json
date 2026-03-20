@@ -1,12 +1,12 @@
 {
   "app": "qlts",
-  "version": "0.0.0",
-  "notes": "Release qlts-v0.0.0",
-  "pub_date": "2026-03-16T06:11:57.192Z",
+  "version": "0.1.1",
+  "notes": "Release qlts-v0.1.1",
+  "pub_date": "2026-03-20T04:58:19.650Z",
   "platforms": {
     "windows": {
-      "dist_url": "https://github.com/sxtcntt/vnvc-updates/releases/download/qlts-v0.0.0/qlts-0.0.0.zip",
-      "checksum_sha256": "7ba4b55b1db9cd207b93fe612996e3104d3eaa48afe515d9ae0c1d5446300d73"
+      "dist_url": "https://github.com/sxtcntt/vnvc-updates/releases/download/qlts-v0.1.1/qlts-0.1.1.zip",
+      "checksum_sha256": "43048223412f6f224d4a3ac9ff3634a26dd992ad97efa0f00aece803ee0b452e"
     }
   }
 }
