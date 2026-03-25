@@ -1,0 +1,12 @@
+{
+  "app": "iot",
+  "version": "0.1.1",
+  "notes": "Release iot-v0.1.1",
+  "pub_date": "2026-03-25T09:42:53.465Z",
+  "platforms": {
+    "windows": {
+      "dist_url": "https://github.com/sxtcntt/vnvc-updates/releases/download/iot-v0.1.1/iot-0.1.1.zip",
+      "checksum_sha256": "aa4e47277e8b65f644cf96e4d749e8c1b32d7871dd08f0e45578b347893d27cc"
+    }
+  }
+}
